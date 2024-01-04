@@ -19,7 +19,7 @@ It offers source code for replicating the experiments conducted on four benchmar
     + [Cars196](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
     + [Stanford Online Products](https://cvgl.stanford.edu/projects/lifted_struct/)
     + [InShop Clothes Retrieval](https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
-2. Extract the tgz or zip file into <span style="background-color: grey;">./data/dataset_name/original/</span> folder and run the data convert scripts to transform data format. In particular, the InShop dataset does not require any data transformation.
+2. Extract the tgz or zip file into `./data/dataset_name/original/` folder and run the data convert scripts to transform data format. In particular, the InShop dataset does not require any data transformation.
 ```
 python scripts/data_process/xxx_convert.py
 ```
