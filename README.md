@@ -64,8 +64,8 @@ python eval.py --cfg scripts/cfgs/xxx.yml --model_path xxx.pth
   title = {Globally Correlation-Aware Hard Negative Generation},
   author = {Peng, Wenjie and Huang, Hongxiang and Chen, Tianshui and Ke, Quhui and Dai, Gang and Huang, Shuangping}
   journal = {International Journal of Computer Vision},
-  year = {2024},
-  issn = {1573-1405},
+  year = {2025},
+  issn = {2441-2462},
   doi = {10.1007/s11263-024-02288-0},
 }
 ```
